@@ -9,7 +9,7 @@ public class Main {
         long beforeUsedMem, afterUsedMem, actualMemUsed;
         // ####### RUNNER OPTION ########
         long seed = 45124562;
-        int len_arr = 5_000_000;
+        int len_arr = 1_000;
         // RANDOM = 1
         // SORTED = 2
         // REVERSED = 3
